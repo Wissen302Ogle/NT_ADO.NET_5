@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UpdateDeleteIslemi", "UpdateDeleteIslemi\UpdateDeleteIslemi.csproj", "{97BED074-1DD8-4C01-A74F-6B4C18EF918C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisconnectedProje", "DisconnectedProje\DisconnectedProje.csproj", "{E58766E9-6092-4F08-ABDA-9CC2F8456579}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97BED074-1DD8-4C01-A74F-6B4C18EF918C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97BED074-1DD8-4C01-A74F-6B4C18EF918C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97BED074-1DD8-4C01-A74F-6B4C18EF918C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97BED074-1DD8-4C01-A74F-6B4C18EF918C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E58766E9-6092-4F08-ABDA-9CC2F8456579}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E58766E9-6092-4F08-ABDA-9CC2F8456579}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E58766E9-6092-4F08-ABDA-9CC2F8456579}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E58766E9-6092-4F08-ABDA-9CC2F8456579}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AAACC39B-91AD-41BB-99F9-03CB57300ACA}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+C:\Users\Section2\source\repos\NT.ADO.NET5\UpdateDeleteIslemi\bin\Debug\UpdateDeleteIslemi.exe.config
+C:\Users\Section2\source\repos\NT.ADO.NET5\UpdateDeleteIslemi\bin\Debug\UpdateDeleteIslemi.exe
+C:\Users\Section2\source\repos\NT.ADO.NET5\UpdateDeleteIslemi\bin\Debug\UpdateDeleteIslemi.pdb
+C:\Users\Section2\source\repos\NT.ADO.NET5\UpdateDeleteIslemi\obj\Debug\UpdateDeleteIslemi.csprojAssemblyReference.cache
+C:\Users\Section2\source\repos\NT.ADO.NET5\UpdateDeleteIslemi\obj\Debug\UpdateDeleteIslemi.Form1.resources
+C:\Users\Section2\source\repos\NT.ADO.NET5\UpdateDeleteIslemi\obj\Debug\UpdateDeleteIslemi.Properties.Resources.resources
+C:\Users\Section2\source\repos\NT.ADO.NET5\UpdateDeleteIslemi\obj\Debug\UpdateDeleteIslemi.csproj.GenerateResource.cache
+C:\Users\Section2\source\repos\NT.ADO.NET5\UpdateDeleteIslemi\obj\Debug\UpdateDeleteIslemi.csproj.CoreCompileInputs.cache
+C:\Users\Section2\source\repos\NT.ADO.NET5\UpdateDeleteIslemi\obj\Debug\UpdateDeleteIslemi.exe
+C:\Users\Section2\source\repos\NT.ADO.NET5\UpdateDeleteIslemi\obj\Debug\UpdateDeleteIslemi.pdb

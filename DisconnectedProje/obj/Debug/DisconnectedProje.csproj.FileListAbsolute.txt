@@ -1,0 +1,10 @@
+C:\Users\Section2\source\repos\NT.ADO.NET5\DisconnectedProje\bin\Debug\DisconnectedProje.exe.config
+C:\Users\Section2\source\repos\NT.ADO.NET5\DisconnectedProje\bin\Debug\DisconnectedProje.exe
+C:\Users\Section2\source\repos\NT.ADO.NET5\DisconnectedProje\bin\Debug\DisconnectedProje.pdb
+C:\Users\Section2\source\repos\NT.ADO.NET5\DisconnectedProje\obj\Debug\DisconnectedProje.csprojAssemblyReference.cache
+C:\Users\Section2\source\repos\NT.ADO.NET5\DisconnectedProje\obj\Debug\DisconnectedProje.Form1.resources
+C:\Users\Section2\source\repos\NT.ADO.NET5\DisconnectedProje\obj\Debug\DisconnectedProje.Properties.Resources.resources
+C:\Users\Section2\source\repos\NT.ADO.NET5\DisconnectedProje\obj\Debug\DisconnectedProje.csproj.GenerateResource.cache
+C:\Users\Section2\source\repos\NT.ADO.NET5\DisconnectedProje\obj\Debug\DisconnectedProje.csproj.CoreCompileInputs.cache
+C:\Users\Section2\source\repos\NT.ADO.NET5\DisconnectedProje\obj\Debug\DisconnectedProje.exe
+C:\Users\Section2\source\repos\NT.ADO.NET5\DisconnectedProje\obj\Debug\DisconnectedProje.pdb
